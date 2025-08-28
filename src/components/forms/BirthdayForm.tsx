@@ -72,7 +72,7 @@ const DateInput = styled(motion.input)`
   }
 
   &:invalid {
-    border-color: var(--color-error);
+    border-color: var(--color-border);
   }
 
   &::placeholder {
